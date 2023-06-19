@@ -47,6 +47,7 @@
 
 ![](../videos/change_texture.mp4 ':include :type=video controls preload="metadata"')
 - **挖空固体**：现在这个固体还是实心的，hammer提供的功能可以挖空它，让它变成空心的。选中物体，然后点击 菜单栏→工具→挖空，默认值32即可（表示挖空后墙面厚度是32）。
+  > 按下```Ctrl+H```也可以对固体进行挖空操作。
 
 ![](../videos/hollow_solid.mp4 ':include :type=video controls preload="metadata"')
 
